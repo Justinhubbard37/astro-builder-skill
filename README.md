@@ -1,5 +1,7 @@
 # astro-builder-skill
 
+> **Free community:** the current version of this, plus my other Claude Code skills, prompts and courses, is in my free Skool community: https://www.skool.com/iss-ai-automation-school-6342/about
+
 SEO-optimized Astro website builder skill for **Claude Code**, **Codex CLI**, and **Antigravity**.
 
 Includes the [taste-skill](https://github.com/Leonxlnx/taste-skill) design system for premium, non-generic frontend output.
